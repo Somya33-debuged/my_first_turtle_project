@@ -4,7 +4,7 @@ Hi! I am a kid who started doing programming in python at an early age. I am rea
 
 #What is in my repo 
 
-My repo will include some projects on the application of turtle graphics, some really fun games using fundamental basics of pyhon like 'for and while loops' , the 'def function' and many more..
+My repo will include some projects on the application of turtle graphics, some interesting projects made by using python 
 
 #What I'm learning !
 
@@ -13,3 +13,4 @@ I am currently working on sharpening my python skills , and learning more about 
 #Difficulties
 
 It takes a lot of time making the projects , and the most timetaking part for building my projects always had been to dubug my code ..there were also times when I can't find the error or can't get the main idea for the execution of my code .. So I had to use the AI sometimes to rectify the error,and seeing it somewhere also boosts my skills on debugging .
+ Moreover, I always feel more thrilled and excited when I learn more about python and to make projects than games..
