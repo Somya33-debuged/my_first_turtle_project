@@ -1,6 +1,6 @@
 # my_early_projects
 
-Hi! I am a kid who started doing programming in python at an early age. I am really into the programming world and aspiring to learn more about new languages and upcoming technologies . This repository is going to include my early python projects . 
+Hi! I am studying in 10th who started doing programming in python. I am really into the programming world and aspiring to learn more about new languages and upcoming technologies . This repository is going to include my early python projects . 
 
 #What is in my repo 
 
