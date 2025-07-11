@@ -1,5 +1,5 @@
 import random
-from art import logo
+from blackjack_art import logo
 print("Welcome to the BLACKJACK!,the game of luck and skill")
 print("RULES [hit = get another card and stand = stay with the cards you have.  if you go over 21 you lose. If you get 21 you win. if the dealer goes over 21 you win. if the dealer and you both go over 21..then the person with low value wins]") 
 def deal_card():
